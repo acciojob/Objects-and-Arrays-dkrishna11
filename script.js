@@ -7,8 +7,6 @@ const person = {
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
-	var team=players;
-var team1=players;
 window.players = players;
 window.person = person;
 window.team = team;
