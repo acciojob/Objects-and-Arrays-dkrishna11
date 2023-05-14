@@ -10,5 +10,8 @@ const person = {
 window.players = players;
 window.person = person;
 window.team = players;
-window.team1 = players;
-window.cap1 = person;
+window.team1 = ["John", "Bob", "Alice", "Poppy"];
+window.cap1 = {
+  name: "Accio Job",
+  age: 25,
+};
