@@ -12,6 +12,6 @@ window.person = person;
 window.team = players;
 window.team1 = ["John", "Bob", "Alice", "Poppy"];
 window.cap1 = {
-  name: "Accio Job",
-  age: 25,
+  name: "John Doe",
+  age: 80,
 };
